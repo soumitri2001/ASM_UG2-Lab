@@ -1,3 +1,4 @@
+; sort array in descending order
 .MODEL SMALL
 .STACK 100H
 .DATA
